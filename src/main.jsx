@@ -12,7 +12,7 @@ createRoot(document.getElementById('root')).render(
     <BrowserRouter>
     <RecoilRoot>
     <App />
-    <HomePage/>
+    {/* <HomePage/> */}
     </RecoilRoot>
     </BrowserRouter>
   </StrictMode>,
